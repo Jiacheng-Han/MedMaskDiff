@@ -7,10 +7,6 @@ Jiacheng Han, *Ke Niu*, Jiuyun Cai
 🔥 News: This paper has been accepted as oral presentation by *ICIC'25* (CCF-C) !
 </div>
 
-## Abstract
-
-To protect patient privacy, the ability of diffusion models to generate medi-cal images from noise has become a key focus for enriching datasets. How-ever, due to the high precision required for medical image anatomical struc-tures, generative models designed for natural scenes fail to meet the strin-gent standards for medical logic. We propose MedMaskDiff, a Mamba-based semantic image synthesis model that generates medical images from masks, which takes full advantage of Mamba's capability to capture long-range med-ical features. Additionally, it utilizes an evolutionary condition-guide meth-od to enhance the quality and medical logic of the generated target regions. MedMaskDiff outperforms other advanced methods in synthesizing liver CT, thyroid nodule ultrasound, and low-grade intraepithelial neoplasia microsco-py images. By utilizing masks from other liver CT datasets for semantic syn-thesis and data augmentation, comparative experiments demonstrate that MedMaskDiff effectively safeguards patient privacy while enhancing down-stream medical image segmentation tasks, significantly improving the per-formance of segmentation models.
-
 ## Overview
 
 * The overall architecture of MedMaskDiff.
