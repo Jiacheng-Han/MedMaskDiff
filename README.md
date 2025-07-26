@@ -4,7 +4,7 @@
   
 Jiacheng Han, *Ke Niu*, Jiuyun Cai
 
-🔥 News: This paper has been accepted as oral presentation by *ICIC'25* (CCF-C) !
+🔥 News: This paper has been accepted as oral presentation by [*ICIC'25*](https://link.springer.com/chapter/10.1007/978-981-95-0030-7_16) (CCF-C) !
 </div>
 
 ## Overview
