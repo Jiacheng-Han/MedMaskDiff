@@ -39,7 +39,7 @@ For CT images, we selected the classic liver dataset LiTS and randomly chose 103
 - [TG3K.zip](https://pan.baidu.com/s/1DqlqZtC1X0LiB9VHfx1OEQ)
 - [EBHI-SEG.zip](https://pan.baidu.com/s/1goFgtYOMIrWf46K1X8Zsvw)
 
-### **2. Train the KMC-UNet** </br>
+### **2. Train the MedMaskDiff** </br>
 You can try using the model in `MedMaskDiff.py`.
 
 ## Acknowledgement
